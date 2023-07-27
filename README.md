@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UjjwalBudha
-- 👀 I’m interested in DEVOPS
-- 🌱 I’m currently learning Bash Scripting
+- 👀 I’m interested in WebDevelopement
+- 🌱 I’m currently learning ReactJs
 - 📫 You can reach me via my socials
 
 <!---
