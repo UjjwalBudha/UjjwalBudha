@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UjjwalBudha
-- 👀 I’m interested in WebDevelopement
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in DEVOPS
+- 🌱 I have been pursuing BSC.CSIT
 - 📫 You can reach me via my socials
 
 <!---
