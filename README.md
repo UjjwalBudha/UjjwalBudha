@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CircleCI**
 
-- 👯 I’m looking to collaborate on **Kubernetes Projects**
+- 👯 I’m looking to collaborate on **DevOps Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
