@@ -24,7 +24,7 @@
 <a href="https://instagram.com/ujjwal_budha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal_budha" height="30" width="40" /></a>
 <a href="https://www.behance.net/ujwalbudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ujwalbudha" height="30" width="40" /></a>
 <a href="https://ujjwalbudha.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ujwalbudha" height="30" width="40" /></a>
-<a href="https://discord.gg/NSjwe9Av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NSjwe9Av" height="30" width="40" /></a>
+<a href="https://discord.gg/UnSpuUqHSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NSjwe9Av" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
