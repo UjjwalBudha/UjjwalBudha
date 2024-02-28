@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Implementing Highly Scalable AWS Three-Tier Java App with Terraform and Jenkins CI/CD**
 
-- 🌱 I’m currently learning **CircleCI**
+- 🌱 I’m currently learning **DevOps/Cloud**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
