@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 📝 I regularly write articles on [https://ujjwalbudha.com/](https://ujjwalbudha.com/)
 
 - 💬 Ask me about **Docker, Terraform, Kubernetes**
