@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ujjwal.budha07@gmail.com**
 
-- 📄 Know about my experiences [https://ujwalbudha.com.np/](https://ujwalbudha.com.np/)
+- 📄 Know about my experiences [ujwalbudha.com.np/](https://ujwalbudha.com.np/)
 
 - ⚡ Fun fact **I am the Kubernetes of my Ship**
 
