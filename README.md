@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://ujjwalbudha.com/](https://ujwalbudha.hashnode.dev/)
+- 📝 I regularly write articles on [ujwalbudha.hashnode.dev](https://ujwalbudha.hashnode.dev/)
 
 - 💬 Ask me about **DevOps/Cloud**
 
