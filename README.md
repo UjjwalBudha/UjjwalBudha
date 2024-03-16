@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalbudha&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalbudha" /> </p>
 
-- 🔭 I’m currently working on **DevOps/Cloud**
+- 🔭 I’m currently working on **DevOps/Cloud Projects**
 
-- 🌱 I’m currently learning **Go Projects**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://ujjwalbudha.com/](https://ujjwalbudha.com/)
 
