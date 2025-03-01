@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevOps/Cloud Projects**
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **MLOPS**
 
 - 📝 I regularly write articles on [ujwalbudha.hashnode.dev](https://ujwalbudha.hashnode.dev/)
 
