@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOPS**
 
-- 📝 I regularly write articles on [ujwalbudha.hashnode.dev](https://ujwalbudha.hashnode.dev/)
+- 📝 I regularly write articles on [ujwalbudha.hashnode.dev](https://www.ujwalbudha.com.np/)
 
 - 💬 Ask me about **DevOps/Cloud**
 
