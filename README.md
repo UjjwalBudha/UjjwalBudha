@@ -56,7 +56,6 @@
 <a href="https://linkedin.com/in/ujwal-budha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujwal-budha" height="30" width="40" /></a>
 <a href="https://fb.com/ujwalbudha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ujwalbudha07" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwal_budha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal_budha" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ujwalbudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ujwalbudha" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalbudha&show_icons=true&locale=en&layout=compact" alt="ujjwalbudha" /></p>
