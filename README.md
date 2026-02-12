@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujwal Budha</h1>
 <h3 align="center">I'm a passionate Cloud & DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalbudha&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalbudha" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalbudha&show_icons=true&locale=en&layout=compact" alt="ujjwalbudha" /></p>
 
